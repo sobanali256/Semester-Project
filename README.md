@@ -1,9 +1,9 @@
 # Semester-Project
 
-#Doodle Jump Game
+# Doodle Jump Game
 This is a simple Doodle Jump game implemented in C++ using the SFML (Simple and Fast Multimedia Library) framework. The game features a doodle character that jumps on randomly generated green platforms. The objective is to climb as high as possible while avoiding falling off the screen.
 
-#Features
+# Features
 - Randomly generated green platforms for a dynamic gameplay experience.
 - Different doodle characters and background options.
 - Sound effects for jumping and falling.
@@ -11,18 +11,18 @@ This is a simple Doodle Jump game implemented in C++ using the SFML (Simple and 
 - Pause functionality.
 - Name entry and personalized greeting for returning players.
 
-#Getting Started
+# Getting Started
 
-#Prerequisites
+# Prerequisites
 - SFML library: You need to have SFML installed on your system. You can download it from [SFML website](https://www.sfml-dev.org/download.php) 
 
-#Compilation
+# Compilation
 Compile the program using a C++ compiler. Make sure to link the SFML libraries appropriately.
 
-#Running the Game
+# Running the Game
 Run the compiled executable.
 
-#Controls
+# Controls
 - Left Arrow / A: Move left.
 - Right Arrow / D: Move right.
 - P: Pause the game.
